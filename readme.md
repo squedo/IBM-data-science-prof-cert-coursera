@@ -2,7 +2,7 @@
 
 IBM Data Science prof Certificate (Coursera): learning notebooks and assignments
 
-(Jun 20 - Present)
+(Jun 20 - Oct 20
 
 ----------------------------------------------------------------------------------
 
